@@ -18,8 +18,8 @@ ___
 <img src="https://badges.pufler.dev/visits/vatsaakash/vatsaakash?style=for-the-badge">
 
 
- <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash)](https://github.com/vatsaakash/github-readme-stats)
 
 ### Programing Language & Scripting
 ___
