@@ -19,7 +19,7 @@ ___
 
 
   <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true"">
 
 ### Programing Language & Scripting
 ___
