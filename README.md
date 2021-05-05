@@ -2,11 +2,11 @@
 ___
 <samp>
 
-🌱 I’m currently learning Python with data science and Unit testing.
+🌱 I’m currently learning Python with Data Science and Unit Testing.
 
 🥅 2021 Goals: Contribute more to Open Source projects
 
-⚡ Fun fact: I love writing contents. Music is love.
+⚡ Fun facts: I love writing contents. Music is love.
 
 ### Contacts
 
