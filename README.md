@@ -16,11 +16,8 @@ ___
      <a href="https://wa.me/918427504589" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/vatsa_akash" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B1.svg?&style=for-the-badge&logoColor=white&logo=Telegram" ></a>
 <img src="https://badges.pufler.dev/visits/vatsaakash/vatsaakash?style=for-the-badge">
-
-
   <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true"">
-
 ### Programing Language & Scripting
 ___
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +25,6 @@ ___
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ### Web Development & DBMS
 ___
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +32,6 @@ ___
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Operating System
 ___
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,8 +56,6 @@ ___
 ___
 ![Hadoop](https://img.shields.io/badge/Hadoop-%2311AB00.svg?&style=for-the-badge&logo=hadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-66595C.svg?&style=for-the-badge&logo=hive&logoColor=white)
-
-
 ### Cloud
 ___
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
