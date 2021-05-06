@@ -17,7 +17,7 @@ ___
   <a href="https://t.me/vatsa_akash" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B1.svg?&style=for-the-badge&logoColor=white&logo=Telegram" ></a>
 <img src="https://badges.pufler.dev/visits/vatsaakash/vatsaakash?style=for-the-badge">
   <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
 ### Programing Language & Scripting
 ___
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
