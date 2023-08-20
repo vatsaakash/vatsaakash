@@ -2,9 +2,9 @@
 ___
 <samp>
 
-🌱 I’m currently learning Python with Data Science and Unit Testing.
+🌱 I’m currently learning JavaScript, ReactJS, SCSS
 
-🥅 2021 Goals: Contribute more to Open Source projects
+🥅 2023 Goals: Contribute more to Open Source projects and Complete MERN.
 
 ⚡ Fun facts: I love writing contents. Music is love.
 
@@ -20,6 +20,8 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
 ### Programing Language & Scripting
 ___
+![JS](https://img.shields.io/badge/JavaScript-00000?style=for-the-badge&logo=JavaScript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-01010?style=for-the-badge&logo=React&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +31,7 @@ ___
 ___
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SCSS(SASS)-ffca28?style=for-the-badge&logo=SASS&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
