@@ -16,7 +16,7 @@ ___
      <a href="https://wa.me/918427504589" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/vatsa_akash" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B1.svg?&style=for-the-badge&logoColor=white&logo=Telegram" ></a>
 <img src="https://badges.pufler.dev/visits/vatsaakash/vatsaakash?style=for-the-badge">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=false">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsaakash&show_icons=true&theme=radical&line_height=33&count_private=false">
 ### Programing Language & Scripting
 ___
